@@ -1,0 +1,50 @@
+[
+        {
+            "title": "which tag is used to break line ?",
+            "answer1": "the <hr> element",
+            "answer2": "the <br> tag",
+            "answer3": "the <img> element",
+            "answer4": "the <blockquote> element",
+            "right": "the <br> tag"
+        },
+        {
+            "title": "What does HTML stand for ?",
+            "answer1": "Hyper tool markup language",
+            "answer2": "Hyper text markup language",
+            "answer3": "Hyperlinks text and markup language",
+            "answer4": "all is right",
+            "right": "Hyper text markup language"
+        },
+        {
+            "title": "Who is making the Web standards ?",
+            "answer1": "google",
+            "answer2": "The world wide web consortium",
+            "answer3": "Mozilla",
+            "answer4": "all is right",
+            "right": "The world wide web consortium"
+        },
+        {
+            "title": "Choose the correct HTML element for the largest heading ?",
+            "answer1": "<head>",
+            "answer2": "<h6>",
+            "answer3": "<header>",
+            "answer4": "<h1>",
+            "right": "<h1>"
+        },
+        {
+            "title": "How can you make a numbered list ?",
+            "answer1": "<dl>",
+            "answer2": "<list>",
+            "answer3": "<ul>",
+            "answer4": "<ol>",
+            "right": "<ol>"
+        },
+        {
+            "title": "What is the correct HTML for making a checkbox ?",
+            "answer1": "<check>",
+            "answer2": "<checkbox>",
+            "answer3": "<input type='check'>",
+            "answer4": "<input type='checkbox'>",
+            "right": "<input type='checkbox'>"
+        }
+]
