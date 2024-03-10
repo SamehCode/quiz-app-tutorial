@@ -1,0 +1,50 @@
+[
+    {
+        "title": "What does CSS stand for?",
+        "answer1": "Colorful Style Sheets",
+        "answer2": "Creative Style Sheets",
+        "answer3": "Cascading Style Sheets",
+        "answer4": "Computer Style Sheets",
+        "right": "Cascading Style Sheets"
+    },
+    {
+        "title": "Which CSS property is used for changing the text color of an element?",
+        "answer1": "color",
+        "answer2": "text-color",
+        "answer3": "font-color",
+        "answer4": "textColor",
+        "right": "color"
+    },
+    {
+        "title": "In CSS, what is the default value of the position property?",
+        "answer1": "relative",
+        "answer2": "static",
+        "answer3": "fixed",
+        "answer4": "absolute",
+        "right": "static"
+    },
+    {
+        "title": "Which CSS property is used to control the spacing between lines of text?",
+        "answer1": "text-spacing",
+        "answer2": "letter-spacing",
+        "answer3": "spacing",
+        "answer4": "line-height",
+        "right": "line-height"
+    },
+    {
+        "title": "What is the purpose of the CSS margin property?",
+        "answer1": "To set the border thickness",
+        "answer2": "To control the space outside the border",
+        "answer3": "To define the padding of an element",
+        "answer4": "To change the element's font size",
+        "right": "To control the space outside the border"
+    },
+    {
+        "title": " What is the purpose of the CSS property z-index?",
+        "answer1": "Controls the transparency of an element",
+        "answer2": "Sets the zoom level of an element",
+        "answer3": "Specifies the stacking order of positioned elements",
+        "answer4": "Defines the width of the element",
+        "right": "Specifies the stacking order of positioned elements"
+    }
+]

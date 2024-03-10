@@ -1,0 +1,50 @@
+[
+    {
+        "title": " To insert a JavaScript into an HTML page, which tag is used?",
+        "answer1": "< script=â€™javaâ€™>",
+        "answer2": "< javascript>",
+        "answer3": "< script>",
+        "answer4": "< js>",
+        "right": "< script>"
+    },
+    {
+        "title": " Which of the below is used in Java script to insert special characters?",
+        "answer1": "&",
+        "answer2": "-",
+        "answer3": "\\",
+        "answer4": "%",
+        "right": "\\"
+    },
+    {
+        "title": "How does Java Script store dates in objects of Date type?",
+        "answer1": "The number of days since January 1st, 1900",
+        "answer2": "The number of seconds since January 1st, 1970",
+        "answer3": "The number of milliseconds since January 1st, 1970",
+        "answer4": "The number of picoseconds since January 1st, 1970",
+        "right": "The number of milliseconds since January 1st, 1970"
+    },
+    {
+        "title": "Which of the following is not a valid JavaScript variable name?",
+        "answer1": "2java",
+        "answer2": "_java_and_java_names",
+        "answer3": "javaandjava",
+        "answer4": "None of the above",
+        "right": "2java"
+    },
+    {
+        "title": "Why so Java and JavaScript have similar name?",
+        "answer1": "Java Script is a stripped-down version of Java",
+        "answer2": "The syntax of JavaScript is loosely based on Java syntax",
+        "answer3": "They both support Object Oriented Programming",
+        "answer4": "None of the above",
+        "right": "The syntax of JavaScript is loosely based on Java syntax"
+    },
+    {
+        "title": "How to append a value to an array of Java Script?",
+        "answer1": "arr[arr.length+1] = new Arrays()",
+        "answer2": "arr[arr.length] = value",
+        "answer3": "arr[arr.length-1] = value",
+        "answer4": "arr[arr.length*1] = value",
+        "right": "arr[arr.length] = value"
+    }
+]
